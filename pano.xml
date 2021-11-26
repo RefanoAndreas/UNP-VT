@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18007" start="node2" appversion="6.1.10">
+  <panorama id="node2" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="70"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node2" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="0" id="Point01" target="0.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node3" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-180" id="Point01" target="180.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-50" id="Point02" target="45.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node4" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-142.9" id="Point01" target="130.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node3}"/>
+      <hotspot pan="0" id="Point02" target="0.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node5" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-180" id="Point01" target="180.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node4}"/>
+      <hotspot pan="-21.7" id="Point02" target="-21.2/0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-123.07" id="Point03" target="0.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node1}"/>
+      <hotspot pan="-315.68" id="Point04" target="-0.0/0.0/70.0" title="" tilt="-15.66" description="" skinid="ht_node" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node6" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="0" id="Point01" target="0.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node13}"/>
+      <hotspot pan="-201.96" id="Point02" target="158.2/0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="" copyright="" longitude="" nodeid="node13" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-180" id="Point01" target="180/0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-265.96" id="Point02" target="0.0/0.0/70.0" title="" tilt="-13.18" description="" skinid="ht_node" url="{node10}"/>
+      <hotspot pan="-322.28" id="Point03" target="0.0/0.0/70.0" title="" tilt="-13" description="" skinid="ht_node" url="{node11}"/>
+      <hotspot pan="-30.97" id="Point04" target="0.0/0.0/70.0" title="" tilt="-13.98" description="" skinid="ht_node" url="{node12}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="-1" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="Downloads" source="" title="Teknologi Terapan" copyright="" longitude="" nodeid="node1" customnodeid="view_1" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-121.13" id="Point01" target="64.3/0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media>
+      <image pan="9.660" clickmode="0" height="640" id="Poster_kiri" rotz="0.000" tilt="2.000" fov="11.170" rotx="0.000" width="360" handcursor="0" roty="7.000" stretch="0.800">
+        <source url="media/poster_kiri.png"/>
+      </image>
+      <image pan="-328.170" clickmode="0" height="320" id="Etalase_atas" rotz="0.000" tilt="-0.320" fov="19.140" rotx="0.000" width="640" handcursor="0" roty="32.000" stretch="1.000">
+        <source url="media/etalase_atas.png"/>
+      </image>
+      <image pan="-26.400" clickmode="0" height="360" id="Youtube" rotz="1.000" tilt="1.900" fov="16.000" rotx="4.000" width="520" handcursor="0" roty="-21.000" stretch="1.000">
+        <source url="media/youtube.png"/>
+      </image>
+      <image pan="-4.500" clickmode="0" height="640" id="Banner_2" rotz="0.000" tilt="2.000" fov="11.250" rotx="0.000" width="360" handcursor="0" roty="-4.000" stretch="0.800">
+        <source url="media/poster_kanan.png"/>
+      </image>
+      <image pan="-308.010" clickmode="0" height="360" id="Banner_kiri" rotz="3.000" tilt="2.230" fov="25.210" rotx="4.000" width="640" handcursor="0" roty="-36.000" stretch="1.110">
+        <source url="media/banner_kiri.png"/>
+      </image>
+      <image pan="-12.260" clickmode="0" height="360" id="Brand_atas" rotz="3.800" tilt="19.380" fov="28.420" rotx="15.000" width="640" handcursor="0" roty="-13.000" stretch="0.630">
+        <source url="media/brand_atas.png"/>
+      </image>
+    </media>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-0.00155082" tilt="0.000459097" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="Makanan Minuman" copyright="" longitude="" nodeid="node9" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-254.02" id="Point01" target="-163.8/0/70.0" title="" tilt="-17.13" description="" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-129.99" id="Point02" target="-35.9//70.0" title="" tilt="-11" description="" skinid="ht_node" url="{node6}"/>
+      <hotspot pan="-89.93" id="Point03" target="0.0/0.0/70.0" title="" tilt="-10" description="" skinid="ht_node" url="{node10}"/>
+    </hotspots>
+    <media>
+      <image pan="10.200" clickmode="0" height="640" id="Poster_kiri" rotz="0.000" tilt="2.960" fov="11.400" rotx="0.000" width="360" handcursor="0" roty="7.000" stretch="0.800">
+        <source url="media/poster_kiri.png"/>
+      </image>
+      <image pan="-327.970" clickmode="0" height="320" id="Etalase_atas" rotz="0.000" tilt="0.160" fov="19.140" rotx="0.000" width="640" handcursor="0" roty="32.000" stretch="1.000">
+        <source url="media/etalase_atas.png"/>
+      </image>
+      <image pan="-26.170" clickmode="0" height="360" id="Youtube" rotz="1.000" tilt="2.780" fov="16.000" rotx="4.000" width="520" handcursor="0" roty="-21.000" stretch="1.000">
+        <source url="media/youtube.png"/>
+      </image>
+      <image pan="-4.220" clickmode="0" height="640" id="Banner_2" rotz="0.200" tilt="2.980" fov="11.622" rotx="0.000" width="360" handcursor="0" roty="-4.000" stretch="0.800">
+        <source url="media/poster_kanan.png"/>
+      </image>
+      <image pan="-307.560" clickmode="0" height="360" id="Banner_kiri" rotz="3.000" tilt="2.860" fov="25.210" rotx="4.000" width="640" handcursor="0" roty="-36.000" stretch="1.110">
+        <source url="media/banner_kiri.png"/>
+      </image>
+      <image pan="-12.000" clickmode="0" height="360" id="Brand_atas" rotz="3.800" tilt="20.620" fov="28.420" rotx="15.000" width="640" handcursor="0" roty="-13.000" stretch="0.630">
+        <source url="media/brand_atas.png"/>
+      </image>
+    </media>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="Produksi &amp; Budidaya" copyright="" longitude="" nodeid="node10" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-179.95" id="Point01" target="-128.8/0/70.0" title="" tilt="-15.73" description="" skinid="ht_node" url="{node13}"/>
+      <hotspot pan="-270" id="Point02" target="" title="" tilt="-8" description="" skinid="ht_node" url="{node9}"/>
+      <hotspot pan="-92.25" id="Point03" target="0.0/0.0/70.0" title="" tilt="-17" description="" skinid="ht_node" url="{node11}"/>
+    </hotspots>
+    <media>
+      <image pan="10.330" clickmode="0" height="640" id="Poster_kiri" rotz="0.000" tilt="2.830" fov="11.649" rotx="0.000" width="360" handcursor="0" roty="7.000" stretch="0.800">
+        <source url="media/poster_kiri.png"/>
+      </image>
+      <image pan="-327.270" clickmode="0" height="320" id="Etalase_atas" rotz="0.000" tilt="0.390" fov="19.140" rotx="0.000" width="640" handcursor="0" roty="32.000" stretch="1.000">
+        <source url="media/etalase_atas.png"/>
+      </image>
+      <image pan="-25.950" clickmode="0" height="360" id="Youtube" rotz="1.000" tilt="2.780" fov="16.000" rotx="0.300" width="520" handcursor="0" roty="-17.800" stretch="1.000">
+        <source url="media/youtube.png"/>
+      </image>
+      <image pan="-4.080" clickmode="0" height="640" id="Banner_2" rotz="0.000" tilt="2.840" fov="11.924" rotx="0.000" width="360" handcursor="0" roty="-4.000" stretch="0.800">
+        <source url="media/poster_kanan.png"/>
+      </image>
+      <image pan="-307.330" clickmode="0" height="360" id="Banner_kiri" rotz="3.000" tilt="2.910" fov="25.210" rotx="4.000" width="640" handcursor="0" roty="-36.000" stretch="1.110">
+        <source url="media/banner_kiri.png"/>
+      </image>
+      <image pan="-11.860" clickmode="0" height="360" id="Brand_atas" rotz="3.800" tilt="20.620" fov="28.633" rotx="17.100" width="640" handcursor="0" roty="-13.000" stretch="0.630">
+        <source url="media/brand_atas.png"/>
+      </image>
+    </media>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="Jasa &amp; Perdagangan" copyright="" longitude="" nodeid="node11" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-206.65" id="Point01" target="0.0/0.0/70.0" title="" tilt="-12.82" description="" skinid="ht_node" url="{node10}"/>
+      <hotspot pan="-90.05" id="Point02" target="0.0/0.0/70.0" title="" tilt="-9.9" description="" skinid="ht_node" url="{node12}"/>
+      <hotspot pan="-133.74" id="Point03" target="-137.2/0.6/70.0" title="" tilt="-13" description="" skinid="ht_node" url="{node13}"/>
+    </hotspots>
+    <media>
+      <image pan="10.320" clickmode="0" height="640" id="Poster_kiri" rotz="0.000" tilt="2.940" fov="11.365" rotx="0.000" width="360" handcursor="0" roty="7.000" stretch="0.800">
+        <source url="media/poster_kiri.png"/>
+      </image>
+      <image pan="-327.370" clickmode="0" height="320" id="Etalase_atas" rotz="0.000" tilt="0.160" fov="19.140" rotx="0.000" width="640" handcursor="0" roty="32.000" stretch="1.000">
+        <source url="media/etalase_atas.png"/>
+      </image>
+      <image pan="-26.160" clickmode="0" height="360" id="Youtube" rotz="1.000" tilt="2.800" fov="16.230" rotx="4.000" width="520" handcursor="0" roty="-21.000" stretch="1.000">
+        <source url="media/youtube.png"/>
+      </image>
+      <image pan="-3.940" clickmode="0" height="640" id="Banner_2" rotz="0.000" tilt="2.840" fov="11.640" rotx="0.000" width="360" handcursor="0" roty="-4.000" stretch="0.800">
+        <source url="media/poster_kanan.png"/>
+      </image>
+      <image pan="-307.190" clickmode="0" height="360" id="Banner_kiri" rotz="3.000" tilt="2.780" fov="25.210" rotx="4.000" width="640" handcursor="0" roty="-36.000" stretch="1.110">
+        <source url="media/banner_kiri.png"/>
+      </image>
+      <image pan="-11.730" clickmode="0" height="360" id="Brand_atas" rotz="3.800" tilt="20.630" fov="28.420" rotx="15.000" width="640" handcursor="0" roty="-13.000" stretch="0.630">
+        <source url="media/brand_atas.png"/>
+      </image>
+    </media>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input height="500" leveltilesize="685" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" width="500" overlap="1" levelbiashidpi="1.000" levelbias="0.400">
+      <level predecode="1" height="500" preload="1" width="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" fovfisheye="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" author="" datetime="" tags="preview" source="" title="Industri Kreatif" copyright="" longitude="" nodeid="node12" customnodeid="" info="" comment="" description="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" bordercolor="0x000000" enabled="1" height="20" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" background="1" borderalpha="1" width="180" border="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-218.87" id="Point01" target="145.3/0/70.0" title="" tilt="-13" description="" skinid="ht_node" url="{node13}"/>
+      <hotspot pan="-269.81" id="Point02" target="0.0/0.0/70.0" title="" tilt="-10.35" description="" skinid="ht_node" url="{node11}"/>
+    </hotspots>
+    <media>
+      <image pan="10.760" clickmode="0" height="640" id="Poster_kiri" rotz="0.000" tilt="2.950" fov="11.418" rotx="0.000" width="360" handcursor="0" roty="7.000" stretch="0.800">
+        <source url="media/poster_kiri.png"/>
+      </image>
+      <image pan="-326.960" clickmode="0" height="320" id="Etalase_atas" rotz="0.000" tilt="0.280" fov="19.140" rotx="0.000" width="640" handcursor="0" roty="32.000" stretch="1.000">
+        <source url="media/etalase_atas.png"/>
+      </image>
+      <image pan="-25.730" clickmode="0" height="360" id="Youtube" rotz="1.000" tilt="2.910" fov="16.000" rotx="4.000" width="520" handcursor="0" roty="-21.000" stretch="1.000">
+        <source url="media/youtube.png"/>
+      </image>
+      <image pan="-3.390" clickmode="0" height="640" id="Banner_2" rotz="0.000" tilt="2.980" fov="11.693" rotx="0.000" width="360" handcursor="0" roty="-4.000" stretch="0.800">
+        <source url="media/poster_kanan.png"/>
+      </image>
+      <image pan="-307.070" clickmode="0" height="360" id="Banner_kiri" rotz="3.000" tilt="2.900" fov="25.210" rotx="4.000" width="640" handcursor="0" roty="-36.000" stretch="1.110">
+        <source url="media/banner_kiri.png"/>
+      </image>
+      <image pan="-11.330" clickmode="0" height="360" id="Brand_atas" rotz="3.800" tilt="20.660" fov="28.633" rotx="15.000" width="640" handcursor="0" roty="-13.000" stretch="0.630">
+        <source url="media/brand_atas.png"/>
+      </image>
+    </media>
+    <transition enabled="1" zoomin="6" blendcolor="0x000000" zoomafteroutfov="20" zoomfov="50" zoomafterinfov="110" type="crossdissolve" zoomoutpause="0" blendtime="0.5" zoomspeed="3" softedge="0" zoomout="2"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" speedwheel="1" sensitivity="8" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" invertwheel="0" contextprojections="0" hideabout="1" simulatemass="1" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" author="" datetime="" tags="" source="" title="" copyright="" longitude="" nodeid="master" customnodeid="" info="" comment="" description="" heading="0"/>
+  </masternode>
+</tour>
